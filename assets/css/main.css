@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kranky&family=Lexend+Deca&family=Prompt:wght@200&family=Ribeye+Marrow&display=swap');
+
+
+body{
+    text-size-adjust: 150%;
+    background-image: url(/assets/img/fondo.png);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Prompt';
+    /*font-family: 'Lexend Deca', sans-serif;
+    font-family: , cursive;*/
+}
+
+h1{
+    text-align: center;
+    margin-top: 2em ;
+    color: whitesmoke;
+    background: #ccc;
+    background: linear-gradient(90deg, #007cf0, #00dfd8);
+    font-size: 3rem;
+    -webkit-text-fill-color: rgb(21, 21, 131);
+    background-clip: text;
+}
+
