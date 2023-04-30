@@ -25,3 +25,17 @@ h1{
     background-clip: text;
 }
 
+.text-bg-primary {
+    color: #fff!important;
+    background-color: rgba(0, 77, 112, 0.411)!important;
+    height: 30px;
+    width: 100% !important;
+    margin: auto;
+    padding: 1.3rem !important;
+}
+
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 0 !important;
+    align-items: center;
+}
